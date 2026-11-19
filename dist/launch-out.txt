@@ -1,0 +1,2 @@
+Proceso 9404 iniciado.
+LoadLibraryW no carg¢ la DLL.

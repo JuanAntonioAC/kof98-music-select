@@ -1,0 +1,128 @@
+# carpeta: @alias=ruta relativa a "nuevas canciones"
+# pista:   STEM|alias|inicio del nombre del archivo|titulo en pantalla
+@CP98=FLAC - City Pop - The King of Fighters 98-20261026T210444Z-1-001\FLAC - City Pop - The King of Fighters 98
+@CP99=FLAC - City Pop - The King Of Fighters 99-20261026T210443Z-1-001\FLAC - City Pop - The King Of Fighters 99
+@SF3A=Street Fighter III - 3rd Strike - Arranged Soundtrack (2000) (FLAC)-20261026T210441Z-1-001\Street Fighter III - 3rd Strike - Arranged Soundtrack (2000) (FLAC)
+@SF3O=STREET FIGHTER III 3rd STRIKE ORIGINAL SOUNDTRACK Sampler CD (1999) (FLAC)-20261026T210440Z-1-001\STREET FIGHTER III 3rd STRIKE ORIGINAL SOUNDTRACK Sampler CD (1999) (FLAC)
+@K99O=THE KING OF FIGHTERS '99 (1999) (FLAC)-20261026T210438Z-1-001\THE KING OF FIGHTERS _99 (1999) (FLAC)
+@K99A=THE KING OF FIGHTERS '99 ARRANGE-20261026T210427Z-1-001\THE KING OF FIGHTERS _99 ARRANGE\THE KING OF FIGHTERS _99 ARRANGE SOUND TRAX
+@ROOT=.
+
+CP98_01|CP98|01 |[KOF98 City Pop] CIPHER (Title)
+CP98_02|CP98|02 |[KOF98 City Pop] OK
+CP98_03|CP98|03 |[KOF98 City Pop] Stormy Saxophone (Iori Yagami)
+CP98_04|CP98|04 |[KOF98 City Pop] Kurikinton (Fatal Fury Team)
+CP98_05|CP98|05 |[KOF98 City Pop] Stormy Saxophone 2 (Yagami Team)
+CP98_06|CP98|06 |[KOF98 City Pop] Fairy (Women Fighters Team)
+CP98_07|CP98|07 |[KOF98 City Pop] Blue Mary's Blues (Blue Mary)
+CP98_08|CP98|08 |[KOF98 City Pop] Rumbling on the City (Ikari Team)
+CP98_09|CP98|09 |[KOF98 City Pop] London March (Billy Kane)
+CP98_10|CP98|10 |[KOF98 City Pop] In Spite of One's Age (Master Team)
+CP98_11|CP98|11 |[KOF98 City Pop] Soul Town (Kim Team)
+CP98_12|CP98|12 |[KOF98 City Pop] C62 (Ryuji Yamazaki)
+CP98_13|CP98|13 |[KOF98 City Pop] Art Of Fight (Art of Fighting Team)
+CP98_14|CP98|14 |[KOF98 City Pop] Tremble! Shuddering Gong (Psycho Soldier Team)
+CP98_15|CP98|15 |[KOF98 City Pop] Esaka Forever (Kyo Kusanagi vs Iori Yagami)
+CP98_16|CP98|16 |[KOF98 City Pop] COOL JAM (Iori Yagami vs Kyo Kusanagi)
+CP98_17|CP98|17 |[KOF98 City Pop] Still Green (Shingo Yabuki)
+CP98_18|CP98|18 |[KOF98 City Pop] Slum N°5 (American Sports Team)
+CP98_19|CP98|19 |[KOF98 City Pop] Rhythmic Hallucination (Yashiro of the P. E.)
+CP98_20|CP98|20 |[KOF98 City Pop] ESAKA (Heroes Team)
+CP98_21|CP98|21 |[KOF98 City Pop] Bloody (Orochi Team)
+CP98_22|CP98|22 |[KOF98 City Pop] ESAKA (Kyo Kusanagi)
+CP98_23|CP98|23 |[KOF98 City Pop] Fanatic Waltz (Shermie)
+CP98_24|CP98|24 |[KOF98 City Pop] The ЯR (Rugal Bernstein)
+
+CP99_01|CP99|01 |[KOF99 City Pop] Psyco Sonic Trip (Psycho Soldier Team Theme)
+CP99_02|CP99|02 |[KOF99 City Pop] KD-0079 (Hero Team Theme)
+CP99_03|CP99|03 |[KOF99 City Pop] 176th Street (Garou Densetsu Team Theme)
+CP99_04|CP99|04 |[KOF99 City Pop] RYU-KO (Ryuuko no Ken Team Theme)
+CP99_05|CP99|05 |[KOF99 City Pop] Dangerous Toys
+CP99_06|CP99|06 |[KOF99 City Pop] Tears (Kyo 99)
+CP99_07|CP99|07 |[KOF99 City Pop] SHA LA LA (Women Fighters Team Theme)
+CP99_08|CP99|08 |[KOF99 City Pop] ESAKA (Kyo Kusanagi 1, 2 Theme)
+CP99_09|CP99|09 |[KOF99 City Pop] The Way to Rebirth (Korea Team Theme)
+CP99_10|CP99|10 |[KOF99 City Pop] W.W.III (Ikari Team Theme)
+CP99_11|CP99|11 |[KOF99 City Pop] Dear Falling Angel (Boss Stage)
+CP99_12|CP99|12 |[KOF99 City Pop] Without Saying Good-Bye (Ending 5)
+CP99_13|CP99|13 |[KOF99 City Pop] Cross fire (Staff Roll)
+
+K99O_102|K99O|1-02 |[KOF99 OST] Burning D.N.A. β (MVS Title)
+K99O_103|K99O|1-03 |[KOF99 OST] Standby (How To Play ~ Player Select)
+K99O_104|K99O|1-04 |[KOF99 OST] KD-0079 (Hero Team Theme)
+K99O_106|K99O|1-06 |[KOF99 OST] 176th Street (Garou Densetsu Team Theme)
+K99O_107|K99O|1-07 |[KOF99 OST] RYU-KO (Ryuuko no Ken Team Theme)
+K99O_108|K99O|1-08 |[KOF99 OST] W.W.III (Ikari Team Theme)
+K99O_109|K99O|1-09 |[KOF99 OST] Dangerous Toys (Midway Demo)
+K99O_110|K99O|1-10 |[KOF99 OST] Psyco Sonic Trip ~Dance At The Paddy Field~ (Psycho Soldier Team Theme)
+K99O_111|K99O|1-11 |[KOF99 OST] SHA LA LA (Women Fighters Team Theme)
+K99O_112|K99O|1-12 |[KOF99 OST] The way to rebirth (Korea Team Theme)
+K99O_113|K99O|1-13.|[KOF99 OST] ESAKA? (Acid Mix) (Kyo Kusanagi 1, 2 Theme)
+K99O_114|K99O|1-14.|[KOF99 OST] Tears (Kyo Theme)
+K99O_115|K99O|1-15.|[KOF99 OST] Sadistic Eyes (Iori Theme)
+K99O_117|K99O|1-17 |[KOF99 OST] Mechanical Bless (Mid Boss Stage)
+K99O_118|K99O|1-18 |[KOF99 OST] Hello,Good Bye (Boss Appearance Demo)
+K99O_119|K99O|1-19 |[KOF99 OST] Dear Falling Angel (Boss Stage)
+K99O_130|K99O|1-30 |[KOF99 OST] Cross fire (Staff Roll)
+KOF99KYO12|ROOT|videoplayback.m4a|[KOF99 OST 2016] ESAKA? (Acid Mix) (Kyo Kusanagi 1 & 2 Theme)
+
+K99A_01|K99A|01 |[KOF99 Arrange] Burning D-N-A (Title)
+K99A_02|K99A|02 |[KOF99 Arrange] KD-0079 (Heroes Team)
+K99A_03|K99A|03 |[KOF99 Arrange] 176th Street (Fatal Fury Team)
+K99A_04|K99A|04 |[KOF99 Arrange] RYU-KO (Art of Fighting Team)
+K99A_05|K99A|05 |[KOF99 Arrange] W.W.III (Ikari Team)
+K99A_06|K99A|06 |[KOF99 Arrange] Psyco Sonic Trip (Psycho Soldier Team)
+K99A_07|K99A|07 |[KOF99 Arrange] SHA-LA-LA (Women Fighters Team)
+K99A_08|K99A|08 |[KOF99 Arrange] The Way To Rebirth (Korea Team)
+K99A_09|K99A|09 |[KOF99 Arrange] ESAKA? ~ACID MIX~ (Kyo Kusanagi 1 / Kyo Kusanagi 2)
+K99A_10|K99A|10 |[KOF99 Arrange] Mechanical Bless (Krizalid-1)
+KOF99KRIZALID|K99A|11 |[KOF99 Arrange] Dear Falling Angel (Krizalid-2)
+KOF99KYO|K99A|12 |[KOF99 Arrange] Tears (Kyo Kusanagi)
+K99A_13|K99A|13 |[KOF99 Arrange] Sadistic Eyes (Iori Yagami)
+K99A_14|K99A|14 |[KOF99 Arrange] Cross Fire (Staff Roll)
+
+SF3O_01|SF3O|01.|[SF3 3rd Strike OST] Third Strike (Full Version)
+SF3O_02|SF3O|02.|[SF3 3rd Strike OST] Let's Get It On (Full Version)
+SF3O_03|SF3O|03.|[SF3 3rd Strike OST] Jazzy NYC '99 (Alex & Ken Stage)
+SF3O_04|SF3O|04.|[SF3 3rd Strike OST] China Vox (Chun-Li Stage)
+SF3O_05|SF3O|05.|[SF3 3rd Strike OST] Killing Moon (Gouki Stage)
+SF3O_07|SF3O|07.|[SF3 3rd Strike OST] You Blow My Mind (Dudley Stage)
+
+SF3A_03|SF3A|03.|[SF3 3rd Strike Arranged] Third Strike
+SF3A_04|SF3A|04.|[SF3 3rd Strike Arranged] Third Strike (RM1 Short Edit)
+SF3A_05|SF3A|05.|[SF3 3rd Strike Arranged] Moving On
+SF3A_06|SF3A|06.|[SF3 3rd Strike Arranged] Let's Get it On
+SF3A_07|SF3A|07.|[SF3 3rd Strike Arranged] Menu
+SF3A_08|SF3A|08.|[SF3 3rd Strike Arranged] High Score Table
+SF3A_09|SF3A|09.|[SF3 3rd Strike Arranged] Character Select
+SF3A_13|SF3A|13.|[SF3 3rd Strike Arranged] Yun and Yang
+SF3A_14|SF3A|14.|[SF3 3rd Strike Arranged] Urien
+SF3A_15|SF3A|15.|[SF3 3rd Strike Arranged] Dudley
+SF3A_16|SF3A|16.|[SF3 3rd Strike Arranged] Elena
+SF3A_17|SF3A|17.|[SF3 3rd Strike Arranged] Hugo
+SF3A_18|SF3A|18.|[SF3 3rd Strike Arranged] Ibuki
+SF3A_19|SF3A|19.|[SF3 3rd Strike Arranged] Makoto
+SF3A_20|SF3A|20.|[SF3 3rd Strike Arranged] Remy
+SF3A_21|SF3A|21.|[SF3 3rd Strike Arranged] Ryu
+SF3A_22|SF3A|22.|[SF3 3rd Strike Arranged] Sean and Oro
+SF3A_23|SF3A|23.|[SF3 3rd Strike Arranged] Twelve, Necro
+SF3A_24|SF3A|24.|[SF3 3rd Strike Arranged] Alex and Ken
+SF3A_25|SF3A|25.|[SF3 3rd Strike Arranged] Chun-Li
+SF3A_26|SF3A|26.|[SF3 3rd Strike Arranged] Q
+SF3A_27|SF3A|27.|[SF3 3rd Strike Arranged] Akuma
+SF3A_28|SF3A|28.|[SF3 3rd Strike Arranged] Bonus Stage (Break the Car)
+SF3A_29|SF3A|29.|[SF3 3rd Strike Arranged] Bonus Stage (Parry the Ball)
+SF3A_31|SF3A|31.|[SF3 3rd Strike Arranged] Gill
+SF3A_35|SF3A|35.|[SF3 3rd Strike Arranged] Ending 1
+SF3A_36|SF3A|36.|[SF3 3rd Strike Arranged] Ending 2
+SF3A_37|SF3A|37.|[SF3 3rd Strike Arranged] Credits
+
+USF2_BALROG|ROOT|_Theme of Balrog|[Ultra Street Fighter II] Theme of Balrog
+USF2_GUILE|ROOT|_Theme of Guile|[Ultra Street Fighter II] Theme of Guile
+USF2_KEN|ROOT|_Theme of Ken|[Ultra Street Fighter II] Theme of Ken
+USF2_CAMMY|ROOT|_Theme of Cammy|[Ultra Street Fighter II] Theme of Cammy
+
+MVC2_CARNIVAL|ROOT|Marvel Vs Capcom 2 Music_ Carnival|[Marvel vs Capcom 2] Carnival Stage
+MVC2_CLOCKTOWER|ROOT|Marvel Vs Capcom 2 Music_ Clock Tower|[Marvel vs Capcom 2] Clock Tower Stage
+MVC2_FACTORY|ROOT|Marvel Vs Capcom 2 Music_ Factory|[Marvel vs Capcom 2] Factory Stage
+MVC2_RIVER|ROOT|Marvel Vs Capcom 2 Music_ River|[Marvel vs Capcom 2] River Stage

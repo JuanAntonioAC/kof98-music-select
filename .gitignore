@@ -1,0 +1,13 @@
+backup/
+build/
+.nuget/
+.vs/
+bin/
+obj/
+nuevas canciones/
+preview-deck/
+*.log
+*.user
+*.asm
+*.iso
+*.7z
